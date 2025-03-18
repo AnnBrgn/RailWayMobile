@@ -11,6 +11,7 @@
         <Grid>
             <!-- Button on the right side -->
             <Button Text="🛒"
+                    Clicked="Basket"
                     FontSize="20"
                     HorizontalOptions="End"
                     VerticalOptions="Center"
@@ -20,11 +21,11 @@
 
     <ShellContent
         Title="Покупка билетов"
-        ContentTemplate="{DataTemplate local:MainPage}"
+        ContentTemplate="{DataTemplate local:Pages.MainPage}"
         Route="MainPage" />
     
     <ShellContent
         Title="Профиль"
-        ContentTemplate="{DataTemplate local:Profile}"
+        ContentTemplate="{DataTemplate local:Pages.Profile}"
         Route="Profile" />
 </Shell>

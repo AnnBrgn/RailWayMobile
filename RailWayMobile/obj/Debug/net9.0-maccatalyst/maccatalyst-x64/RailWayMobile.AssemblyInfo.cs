@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RailWayMobile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+0a1de6f438b3ba9661f34aa60e93c5f81fb990ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("RailWayMobile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RailWayMobile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

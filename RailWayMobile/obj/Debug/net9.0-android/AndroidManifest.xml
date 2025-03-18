@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
     Этот код был создан программным средством.
-    Он был создан на основе файла шаблона C:\Users\BEST PC\source\repos\RailWayMobile\RailWayMobile\Platforms\Android\AndroidManifest.xml
+    Он был создан на основе файла шаблона C:\Users\PPPOE252110\Documents\GitHub\RailWayMobile\RailWayMobile\Platforms\Android\AndroidManifest.xml
     Изменения, внесенные в этот файл, могут привести к неправильному поведению и будут потеряны
     в случае повторного создания содержимого.
     -->
@@ -16,6 +16,9 @@
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
+    <activity android:exported="true" android:name="crc648316b0a9aa8cfd61.BrowserTabActivity" />
+    <activity android:exported="true" android:name="microsoft.identity.client.AuthenticationActivity" />
+    <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="crc64ed1888fb4925e3b7.AuthenticationAgentActivity" />
     <activity android:configChanges="orientation|screenSize" android:exported="false" android:name="crc6468b6408a11370c2f.WebAuthenticatorIntermediateActivity" />
     <provider android:authorities="com.companyname.railwaymobile.fileProvider" android:exported="false" android:grantUriPermissions="true" android:name="microsoft.maui.essentials.fileProvider">
       <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/microsoft_maui_essentials_fileprovider_file_paths" />

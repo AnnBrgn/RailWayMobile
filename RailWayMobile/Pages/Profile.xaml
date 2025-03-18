@@ -4,8 +4,10 @@
              x:Class="RailWayMobile.Pages.Profile"
              Title="Profile">
     <StackLayout>
-        <Label Text="Welcome to .NET MAUI!"
-                VerticalOptions="Center" 
-                HorizontalOptions="Center" />
+        <Label Text="{Binding FIO}" />
+        <Label Text="{Binding Email}" />
+        <Label Text="{Binding NumberPhone}" />
+        <Label Text="{Binding Birthday}" />
+        <Label Text="{Binding Gender}" />
     </StackLayout>
 </ContentPage>
