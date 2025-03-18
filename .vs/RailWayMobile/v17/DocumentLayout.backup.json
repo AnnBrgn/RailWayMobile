@@ -79,8 +79,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-18T10:15:35.158Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -92,8 +91,7 @@
               "RelativeToolTip": "RailWayMobile\\Pages\\Registration.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T11:55:34.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T11:55:34.133Z"
             },
             {
               "$type": "Document",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "RailWayMobile\\MauiProgram.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T11:07:14.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T11:07:14.171Z"
             },
             {
               "$type": "Document",
@@ -118,8 +115,7 @@
               "RelativeToolTip": "RailWayMobile\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T11:49:07.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T11:49:07.339Z"
             },
             {
               "$type": "Document",
@@ -131,8 +127,7 @@
               "RelativeToolTip": "RailWayMobile\\App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-18T11:48:47.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T11:48:47.443Z"
             },
             {
               "$type": "Document",
@@ -144,8 +139,7 @@
               "RelativeToolTip": "RailWayMobile\\Pages\\Registration.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-18T11:47:14.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T11:47:14.415Z"
             },
             {
               "$type": "Document",
@@ -157,8 +151,7 @@
               "RelativeToolTip": "RailWayMobile\\Pages\\BasketPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T10:58:30.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T10:58:30.171Z"
             },
             {
               "$type": "Document",
@@ -170,8 +163,7 @@
               "RelativeToolTip": "RailWayMobile\\Pages\\BasketPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-18T10:58:19.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T10:58:19.329Z"
             },
             {
               "$type": "Document",
@@ -181,7 +173,7 @@
               "RelativeDocumentMoniker": "RailWayMobile\\AppShell.xaml.cs",
               "ToolTip": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\AppShell.xaml.cs",
               "RelativeToolTip": "RailWayMobile\\AppShell.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T10:55:22.254Z",
               "EditorCaption": ""
@@ -196,8 +188,7 @@
               "RelativeToolTip": "RailWayMobile\\Pages\\Profile.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T10:50:28.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T10:50:28.849Z"
             },
             {
               "$type": "Document",
@@ -209,8 +200,7 @@
               "RelativeToolTip": "RailWayMobile\\Pages\\MainPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T10:50:26.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T10:50:26.789Z"
             },
             {
               "$type": "Document",
@@ -222,8 +212,7 @@
               "RelativeToolTip": "RailWayMobile\\Pages\\MainPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-18T10:50:07.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T10:50:07.532Z"
             },
             {
               "$type": "Document",
@@ -235,8 +224,7 @@
               "RelativeToolTip": "RailWayMobile\\ClassesDTO\\UserDTO.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T11:36:23.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T11:36:23.113Z"
             },
             {
               "$type": "Document",
@@ -248,8 +236,7 @@
               "RelativeToolTip": "RailWayMobile\\Pages\\Profile.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-18T10:15:12.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T10:15:12.98Z"
             }
           ]
         }
