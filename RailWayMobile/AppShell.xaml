@@ -6,18 +6,6 @@
     xmlns:local="clr-namespace:RailWayMobile"
     Shell.FlyoutBehavior="Flyout"
     Title="RailWayMobile">
-    
-    <Shell.TitleView>
-        <Grid>
-            <!-- Button on the right side -->
-            <Button Text="🛒"
-                    Clicked="Basket"
-                    FontSize="20"
-                    HorizontalOptions="End"
-                    VerticalOptions="Center"
-                    BackgroundColor="Transparent"/>
-        </Grid>
-    </Shell.TitleView>
 
     <ShellContent
         Title="Покупка билетов"
@@ -26,6 +14,6 @@
     
     <ShellContent
         Title="Профиль"
-        ContentTemplate="{DataTemplate local:Pages.Profile}"
-        Route="Profile" />
+        ContentTemplate="{DataTemplate local:Pages.ProfilePage}"
+        Route="ProfilePage" />
 </Shell>

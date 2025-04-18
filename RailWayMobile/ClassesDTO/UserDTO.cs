@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace RailWayMobile.ClassesDTO
+﻿namespace RailWayMobile.ClassesDTO
 {
-    public class UserDTO
+    public class UserDTO : ICloneable
     {
         public int Id { get; set; }
 
@@ -14,15 +8,15 @@ namespace RailWayMobile.ClassesDTO
 
         public string? Lastname { get; set; }
 
+        public string? Login { get; set; }
+
+        public string? Password { get; set; }
+
         public string? Patronymic { get; set; }
 
         public string? Email { get; set; }
 
         public string? NumberPhone { get; set; }
-
-        public string? Login { get; set; }
-
-        public string? Password { get; set; }
 
         public DateOnly? Birthday { get; set; }
 
@@ -32,5 +26,12 @@ namespace RailWayMobile.ClassesDTO
 
         public string? NumberPassport { get; set; }
 
+        public string? Token { get; set; }
+
+        public byte[]? Image { get; set; }
+        public object Clone()
+        {
+            return this.MemberwiseClone(); // поверхностное копирование
+        }
     }
 }

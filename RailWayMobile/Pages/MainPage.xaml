@@ -2,14 +2,15 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="RailWayMobile.Pages.MainPage">
-    
     <ScrollView>
         <VerticalStackLayout
             Padding="30,0"
             Spacing="25">
             <DatePicker/>
-            <Entry Text="Откуда"/>
-            <Entry Text="Куда"/>
+            <Entry Placeholder="Откуда"
+                   Text="{Binding From}"/>
+            <Entry Placeholder="Куда"
+                   Text="{Binding Where}"/>
             <Button Text="Найти поезда"/>
             <Entry Text="📌"/>
             <Entry Text="📌"/>

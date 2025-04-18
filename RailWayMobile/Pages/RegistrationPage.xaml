@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:RailWayMobile.Behaviors"
+             x:Class="RailWayMobile.Pages.RegistrationPage"
+             Title="RegistrationPage"
+             Shell.NavBarIsVisible="False"
+             Shell.FlyoutItemIsVisible="False"
+             Shell.TabBarIsVisible="False"
+             Shell.FlyoutBehavior="Disabled">
+    <StackLayout>
+        <Entry Text="{Binding Name}"
+                Placeholder="Имя"/>
+        <Entry Text="{Binding LastName}"
+                Placeholder="Фамилия"/>
+        <Entry Text="{Binding Patronymic}"
+                Placeholder="Отчество"/>
+        <Entry Text="{Binding Birthday}"
+                Placeholder="дд.мм.гггг">
+            <Entry.Behaviors>
+                <local:AutoDateEntryBehavior />
+            </Entry.Behaviors>
+        </Entry>
+
+        <Picker 
+                ItemsSource="{Binding Genders}"
+                SelectedItem="{Binding SelectedGender}">
+        </Picker>
+        <Entry Text="{Binding NumberPhone}"
+                Placeholder="+7 (XXX) XXX-XX-XX">
+            <Entry.Behaviors>
+                <local:PhoneNumberEntryBehavior />
+            </Entry.Behaviors>
+        </Entry>
+        <Entry Text="{Binding Email}"
+                Placeholder="example@domain.com">
+            <Entry.Behaviors>
+                <local:EmailEntryBehavior />
+            </Entry.Behaviors>
+        </Entry>
+        <Entry Text="{Binding Login}"
+                Placeholder="Логин"/>
+        <Entry Text="{Binding Password}"
+               Placeholder="Пароль"/>
+        <Button Text="Создать аккаунт"
+                Clicked="CreateAccount"/>
+    </StackLayout>
+</ContentPage>

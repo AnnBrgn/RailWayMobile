@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RailWayMobile.Pages.LoginPage"
+             Title="Registration"
+             Shell.NavBarIsVisible="False"
+             Shell.FlyoutItemIsVisible="False"
+             Shell.TabBarIsVisible="False"
+             Shell.FlyoutBehavior="Disabled">
+    <Shell.BackButtonBehavior>
+        <BackButtonBehavior IsEnabled="False" 
+                            IsVisible="False"/>
+    </Shell.BackButtonBehavior>
+    
+    <VerticalStackLayout>
+        <Label 
+            Text="Добро пожаловать в RailWaySystem!"
+            Margin="5"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        
+        <Entry Text="{Binding Login}"
+               Placeholder="Login"
+               Margin="5"/>
+        <Entry Text="{Binding Password}"
+               Placeholder="Password"
+               Margin="5"/>
+        
+        <Button Text="Войти"
+                Margin="5"
+                Clicked="OnLoginButtonClicked"/>
+        
+        <Label Text="Ещё нет аккаунта? 
+               Самое время зарегистрироваться прямо сейчас!"
+               Margin="5"/>
+        <Button Text="Регистрация"
+                Clicked="Registration"
+                Margin="5"/>
+    </VerticalStackLayout>
+</ContentPage>

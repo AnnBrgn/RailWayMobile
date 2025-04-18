@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:RailWayMobile.Behaviors"
+             x:Class="RailWayMobile.Pages.EditProfilePage"
+             Title="EditProfilePage">
+    <StackLayout>
+        <Image Source="{Binding .}"/>
+        <Entry Text="{Binding User.Lastname}"/>
+        <Entry Text="{Binding User.Name}"/>
+        <Entry Text="{Binding User.Patronymic}"/>
+        <Entry Text="{Binding User.Email}"
+               Placeholder="example@domain.com">
+            <Entry.Behaviors>
+                <local:EmailEntryBehavior />
+            </Entry.Behaviors>
+        </Entry>
+        <Entry Text="{Binding User.NumberPhone}"
+               Placeholder="+7 (XXX) XXX-XX-XX">
+            <Entry.Behaviors>
+                <local:PhoneNumberEntryBehavior />
+            </Entry.Behaviors>
+        </Entry>
+        <Entry Text="{Binding Birthday}"
+               Placeholder="дд.мм.гггг">
+            <Entry.Behaviors>
+                <local:AutoDateEntryBehavior />
+            </Entry.Behaviors>
+        </Entry>
+        <Picker 
+               ItemsSource="{Binding Genders}"
+               SelectedItem="{Binding SelectedGender}">
+        </Picker>
+        <Button Text="Изменить данные"
+                Clicked="EditData"
+                Margin="5"/>
+    </StackLayout>
+</ContentPage>

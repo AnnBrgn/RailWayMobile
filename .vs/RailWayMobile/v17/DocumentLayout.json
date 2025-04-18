@@ -1,62 +1,98 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\",
+  "WorkspaceRootPath": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\pppoe252110\\documents\\github\\railwaymobile\\railwaymobile\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\best pc\\desktop\\railwaymobile\\railwaymobile\\pages\\editprofilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\pages\\editprofilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\pppoe252110\\documents\\github\\railwaymobile\\railwaymobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\best pc\\desktop\\railwaymobile\\railwaymobile\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\pppoe252110\\documents\\github\\railwaymobile\\railwaymobile\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\best pc\\desktop\\railwaymobile\\railwaymobile\\pages\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\pages\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\pppoe252110\\documents\\github\\railwaymobile\\railwaymobile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\best pc\\desktop\\railwaymobile\\railwaymobile\\pages\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\pages\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\pppoe252110\\documents\\github\\railwaymobile\\railwaymobile\\pages\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\pages\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\best pc\\desktop\\railwaymobile\\railwaymobile\\pages\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\pages\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\pppoe252110\\documents\\github\\railwaymobile\\railwaymobile\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\pppoe252110\\documents\\github\\railwaymobile\\railwaymobile\\pages\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\pages\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\pppoe252110\\documents\\github\\railwaymobile\\railwaymobile\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\pppoe252110\\documents\\github\\railwaymobile\\railwaymobile\\pages\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\pages\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\pppoe252110\\documents\\github\\railwaymobile\\railwaymobile\\classesdto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\best pc\\desktop\\railwaymobile\\railwaymobile\\classesdto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\classesdto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\pppoe252110\\documents\\github\\railwaymobile\\railwaymobile\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\best pc\\desktop\\railwaymobile\\railwaymobile\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\best pc\\desktop\\railwaymobile\\railwaymobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\best pc\\desktop\\railwaymobile\\railwaymobile\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\best pc\\desktop\\railwaymobile\\railwaymobile\\classesdto\\updateuserprofilepicturedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\classesdto\\updateuserprofilepicturedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\best pc\\desktop\\railwaymobile\\railwaymobile\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\best pc\\desktop\\railwaymobile\\railwaymobile\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\best pc\\desktop\\railwaymobile\\railwaymobile\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\pppoe252110\\documents\\github\\railwaymobile\\railwaymobile\\pages\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\pages\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\best pc\\desktop\\railwaymobile\\railwaymobile\\pages\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\pages\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\pppoe252110\\documents\\github\\railwaymobile\\railwaymobile\\pages\\basketpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\best pc\\desktop\\railwaymobile\\railwaymobile\\pages\\editprofilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\pages\\editprofilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\best pc\\desktop\\railwaymobile\\railwaymobile\\pages\\basketpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\pages\\basketpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\pppoe252110\\documents\\github\\railwaymobile\\railwaymobile\\pages\\basketpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\best pc\\desktop\\railwaymobile\\railwaymobile\\utils\\appmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\utils\\appmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\best pc\\desktop\\railwaymobile\\railwaymobile\\behaviors\\autodateentrybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\behaviors\\autodateentrybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\best pc\\desktop\\railwaymobile\\railwaymobile\\classesdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\classesdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\best pc\\desktop\\railwaymobile\\railwaymobile\\pages\\basketpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\pages\\basketpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\best pc\\desktop\\railwaymobile\\railwaymobile\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\best pc\\desktop\\railwaymobile\\railwaymobile\\behaviors\\phonenumberentrybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\behaviors\\phonenumberentrybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|c:\\users\\best pc\\desktop\\railwaymobile\\railwaymobile\\behaviors\\emailentrybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A131AF-1623-4AC8-95BF-0A1EFCE92B7B}|RailWayMobile\\RailWayMobile.csproj|solutionrelative:railwaymobile\\behaviors\\emailentrybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,177 +102,317 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\AppShell.xaml",
-              "RelativeDocumentMoniker": "RailWayMobile\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\AppShell.xaml",
-              "RelativeToolTip": "RailWayMobile\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-18T10:15:35.158Z",
-              "IsPinned": true
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Registration.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\Pages\\Registration.xaml.cs",
-              "RelativeDocumentMoniker": "RailWayMobile\\Pages\\Registration.xaml.cs",
-              "ToolTip": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\Pages\\Registration.xaml.cs",
-              "RelativeToolTip": "RailWayMobile\\Pages\\Registration.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T11:55:34.133Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "RailWayMobile\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\MauiProgram.cs",
-              "RelativeToolTip": "RailWayMobile\\MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T11:07:14.171Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\App.xaml.cs",
-              "RelativeDocumentMoniker": "RailWayMobile\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\App.xaml.cs",
-              "RelativeToolTip": "RailWayMobile\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T11:49:07.339Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\App.xaml",
-              "RelativeDocumentMoniker": "RailWayMobile\\App.xaml",
-              "ToolTip": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\App.xaml",
-              "RelativeToolTip": "RailWayMobile\\App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-18T11:48:47.443Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Registration.xaml",
-              "DocumentMoniker": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\Pages\\Registration.xaml",
-              "RelativeDocumentMoniker": "RailWayMobile\\Pages\\Registration.xaml",
-              "ToolTip": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\Pages\\Registration.xaml",
-              "RelativeToolTip": "RailWayMobile\\Pages\\Registration.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-18T11:47:14.415Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BasketPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\Pages\\BasketPage.xaml.cs",
-              "RelativeDocumentMoniker": "RailWayMobile\\Pages\\BasketPage.xaml.cs",
-              "ToolTip": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\Pages\\BasketPage.xaml.cs",
-              "RelativeToolTip": "RailWayMobile\\Pages\\BasketPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\ClassesDTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "RailWayMobile\\ClassesDTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\ClassesDTO\\UserDTO.cs",
+              "RelativeToolTip": "RailWayMobile\\ClassesDTO\\UserDTO.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA6wCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T10:58:30.171Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BasketPage.xaml",
-              "DocumentMoniker": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\Pages\\BasketPage.xaml",
-              "RelativeDocumentMoniker": "RailWayMobile\\Pages\\BasketPage.xaml",
-              "ToolTip": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\Pages\\BasketPage.xaml",
-              "RelativeToolTip": "RailWayMobile\\Pages\\BasketPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-18T10:58:19.329Z"
+              "WhenOpened": "2025-04-05T08:12:35.727Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "RailWayMobile\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\AppShell.xaml.cs",
-              "RelativeToolTip": "RailWayMobile\\AppShell.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Title": "EditProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Pages\\EditProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "RailWayMobile\\Pages\\EditProfilePage.xaml.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Pages\\EditProfilePage.xaml.cs",
+              "RelativeToolTip": "RailWayMobile\\Pages\\EditProfilePage.xaml.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAkwKkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T10:55:22.254Z",
+              "WhenOpened": "2025-04-10T10:22:45.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "RailWayMobile\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\AppShell.xaml.cs",
+              "RelativeToolTip": "RailWayMobile\\AppShell.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T08:12:39.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "RailWayMobile\\Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "RailWayMobile\\Pages\\LoginPage.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T08:16:05.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfilePage.xaml",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Pages\\ProfilePage.xaml",
+              "RelativeDocumentMoniker": "RailWayMobile\\Pages\\ProfilePage.xaml",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Pages\\ProfilePage.xaml",
+              "RelativeToolTip": "RailWayMobile\\Pages\\ProfilePage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-05T08:07:21.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Pages\\ProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "RailWayMobile\\Pages\\ProfilePage.xaml.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Pages\\ProfilePage.xaml.cs",
+              "RelativeToolTip": "RailWayMobile\\Pages\\ProfilePage.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T08:07:28.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Pages\\RegistrationPage.xaml.cs",
+              "RelativeDocumentMoniker": "RailWayMobile\\Pages\\RegistrationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Pages\\RegistrationPage.xaml.cs",
+              "RelativeToolTip": "RailWayMobile\\Pages\\RegistrationPage.xaml.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAqwF8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:01:00.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\AppShell.xaml",
+              "RelativeDocumentMoniker": "RailWayMobile\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\AppShell.xaml",
+              "RelativeToolTip": "RailWayMobile\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-10T06:33:29.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "RailWayMobile\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\MauiProgram.cs",
+              "RelativeToolTip": "RailWayMobile\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T08:12:40.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateUserProfilePictureDTO.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\ClassesDTO\\UpdateUserProfilePictureDTO.cs",
+              "RelativeDocumentMoniker": "RailWayMobile\\ClassesDTO\\UpdateUserProfilePictureDTO.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\ClassesDTO\\UpdateUserProfilePictureDTO.cs",
+              "RelativeToolTip": "RailWayMobile\\ClassesDTO\\UpdateUserProfilePictureDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:58:00.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\ClassesDTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "RailWayMobile\\ClassesDTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\ClassesDTO\\LoginDTO.cs",
+              "RelativeToolTip": "RailWayMobile\\ClassesDTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:07:57.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AutoDateEntryBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Behaviors\\AutoDateEntryBehavior.cs",
+              "RelativeDocumentMoniker": "RailWayMobile\\Behaviors\\AutoDateEntryBehavior.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Behaviors\\AutoDateEntryBehavior.cs",
+              "RelativeToolTip": "RailWayMobile\\Behaviors\\AutoDateEntryBehavior.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:17:28.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\App.xaml",
+              "RelativeDocumentMoniker": "RailWayMobile\\App.xaml",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\App.xaml",
+              "RelativeToolTip": "RailWayMobile\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-10T06:39:31.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BasketPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Pages\\BasketPage.xaml.cs",
+              "RelativeDocumentMoniker": "RailWayMobile\\Pages\\BasketPage.xaml.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Pages\\BasketPage.xaml.cs",
+              "RelativeToolTip": "RailWayMobile\\Pages\\BasketPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:58:41.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditProfilePage.xaml",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Pages\\EditProfilePage.xaml",
+              "RelativeDocumentMoniker": "RailWayMobile\\Pages\\EditProfilePage.xaml",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Pages\\EditProfilePage.xaml",
+              "RelativeToolTip": "RailWayMobile\\Pages\\EditProfilePage.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-10T10:15:53.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppManager.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Utils\\AppManager.cs",
+              "RelativeDocumentMoniker": "RailWayMobile\\Utils\\AppManager.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Utils\\AppManager.cs",
+              "RelativeToolTip": "RailWayMobile\\Utils\\AppManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T08:11:34.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "RailWayMobile\\Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "RailWayMobile\\Pages\\LoginPage.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-05T08:10:04.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BasketPage.xaml",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Pages\\BasketPage.xaml",
+              "RelativeDocumentMoniker": "RailWayMobile\\Pages\\BasketPage.xaml",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Pages\\BasketPage.xaml",
+              "RelativeToolTip": "RailWayMobile\\Pages\\BasketPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-05T08:10:00.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmailEntryBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Behaviors\\EmailEntryBehavior.cs",
+              "RelativeDocumentMoniker": "RailWayMobile\\Behaviors\\EmailEntryBehavior.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Behaviors\\EmailEntryBehavior.cs",
+              "RelativeToolTip": "RailWayMobile\\Behaviors\\EmailEntryBehavior.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:15:04.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PhoneNumberEntryBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Behaviors\\PhoneNumberEntryBehavior.cs",
+              "RelativeDocumentMoniker": "RailWayMobile\\Behaviors\\PhoneNumberEntryBehavior.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Behaviors\\PhoneNumberEntryBehavior.cs",
+              "RelativeToolTip": "RailWayMobile\\Behaviors\\PhoneNumberEntryBehavior.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:14:03.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegistrationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Pages\\RegistrationPage.xaml",
+              "RelativeDocumentMoniker": "RailWayMobile\\Pages\\RegistrationPage.xaml",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Pages\\RegistrationPage.xaml",
+              "RelativeToolTip": "RailWayMobile\\Pages\\RegistrationPage.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-01T13:00:59.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Profile.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\Pages\\Profile.xaml.cs",
-              "RelativeDocumentMoniker": "RailWayMobile\\Pages\\Profile.xaml.cs",
-              "ToolTip": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\Pages\\Profile.xaml.cs",
-              "RelativeToolTip": "RailWayMobile\\Pages\\Profile.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T10:50:28.849Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\Pages\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "RailWayMobile\\Pages\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\Pages\\MainPage.xaml.cs",
-              "RelativeToolTip": "RailWayMobile\\Pages\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T10:50:26.789Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\Pages\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Pages\\MainPage.xaml",
               "RelativeDocumentMoniker": "RailWayMobile\\Pages\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Pages\\MainPage.xaml",
               "RelativeToolTip": "RailWayMobile\\Pages\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-18T10:50:07.532Z"
+              "WhenOpened": "2025-04-01T13:00:57.154Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\ClassesDTO\\UserDTO.cs",
-              "RelativeDocumentMoniker": "RailWayMobile\\ClassesDTO\\UserDTO.cs",
-              "ToolTip": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\ClassesDTO\\UserDTO.cs",
-              "RelativeToolTip": "RailWayMobile\\ClassesDTO\\UserDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "RailWayMobile\\Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\BEST PC\\Desktop\\RailWayMobile\\RailWayMobile\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "RailWayMobile\\Pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T11:36:23.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Profile.xaml",
-              "DocumentMoniker": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\Pages\\Profile.xaml",
-              "RelativeDocumentMoniker": "RailWayMobile\\Pages\\Profile.xaml",
-              "ToolTip": "C:\\Users\\PPPOE252110\\Documents\\GitHub\\RailWayMobile\\RailWayMobile\\Pages\\Profile.xaml",
-              "RelativeToolTip": "RailWayMobile\\Pages\\Profile.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-18T10:15:12.98Z"
+              "WhenOpened": "2025-04-01T11:28:19.666Z",
+              "EditorCaption": ""
             }
           ]
         }

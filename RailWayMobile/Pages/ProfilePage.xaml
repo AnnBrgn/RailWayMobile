@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RailWayMobile.Pages.ProfilePage"
+             Title="Profile">
+    <StackLayout>
+        <Button Text="✎"
+                Clicked="EditProfile"
+                Background="Transparent"
+                TextColor="Black"/>
+        <Image Source="{Binding .}"/>
+        <Label Text="ФИО"
+               TextColor="Gray"
+               Margin="3"/>
+        <Label Text="{Binding User.Name}" 
+               Margin="3"/>
+        <Label Text="{Binding User.Lastname}"
+               Margin="3"/>
+        <Label Text="{Binding User.Patronymic}"
+               Margin="3"/>
+        <Label Text="e-mail"
+               TextColor="Gray"
+               Margin="3"/>
+        <Label Text="{Binding User.Email}"
+               Margin="3"/>
+        <Label Text="Телефон"
+               TextColor="Gray"
+               Margin="3"/>
+        <Label Text="{Binding User.NumberPhone}"
+               Margin="3"/>
+        <Label Text="Дата рождения"
+               TextColor="Gray"
+               Margin="3"/>
+        <Label Text="{Binding User.Birthday}"
+               Margin="3"/>
+        <Label Text="Пол"
+               TextColor="Gray"
+               Margin="3"/>
+        <Label Text="{Binding User.Gender}"
+               Margin="3"/>
+        <Label Text="Логин"
+               TextColor="Gray"
+               Margin="3"/>
+        <Label Text="{Binding User.Login}"
+               Margin="3"/>
+    </StackLayout>
+</ContentPage>
